@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="-1 -1 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>resources</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="resources">
+            <circle id="Oval" fill="#004976" cx="20" cy="20" r="20"></circle>
+            <path d="M10,23.259 C10,24.281 10.629,25.197 11.583,25.566 L18.708,28.701 L18.708,13.825 L11.325,11.052 C10.672,10.836 10,11.322 10,12.009 L10,23.259 Z" id="Fill-1" fill="#FFFFFF"></path>
+            <path d="M30.0679,23.2244 C30.0679,24.2674 29.4259,25.2024 28.4529,25.5784 L21.3589,28.7014 L21.3589,13.8254 L28.6769,11.0734 C29.3619,10.8474 30.0679,11.3564 30.0679,12.0784 L30.0679,23.2244 Z" id="Fill-4" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

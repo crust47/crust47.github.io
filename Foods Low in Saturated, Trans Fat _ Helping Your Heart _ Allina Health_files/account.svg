@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="-1 -1 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Find-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AH-TopNav-4AccountLoggedOut" transform="translate(-1108.000000, -73.000000)">
+            <g id="Desktop2-4AccountOut">
+                <g id="Nav-Open" transform="translate(375.000000, 46.000000)">
+                    <g id="Account/Open" transform="translate(708.000000, 1.000000)">
+                        <g id="Group-7-Copy-3" transform="translate(25.000000, 23.000000)">
+                            <g id="Find-icon" transform="translate(0.000000, 3.000000)">
+                                <circle id="Oval" fill="#004976" cx="20" cy="20" r="20"></circle>
+                                <path d="M20.5,19 C23.537925,19 26,16.5378975 26,13.5 C26,10.4621025 23.5378975,8 20.5,8 C17.4621025,8 15,10.4621025 15,13.5 C15,16.5378975 17.4621025,19 20.5,19 Z M10,28.5552 C10,28.8010347 10.2034717,29 10.4548925,29 L29.5451075,29 C29.7965201,29 30,28.8010427 30,28.5552 L30,27.6666667 C30,24.0709333 27.5412894,21 22.7271736,21 L17.2728264,21 C12.4588197,21 10,24.0709333 10,27.6666667 L10,28.5552 Z" id="Page-1" fill="#FFFFFF"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
